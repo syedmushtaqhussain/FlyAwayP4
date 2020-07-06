@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fly_away_Dependency
+Bundle-SymbolicName: fly_away_Dependency
+Bundle-Version: 1.0.0
+Automatic-Module-Name: fly_away_Dependency
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
